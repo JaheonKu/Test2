@@ -7,6 +7,7 @@ uses
 {$R *.res}
 
 begin
+  //
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
   Application.CreateForm(TForm17, Form17);
